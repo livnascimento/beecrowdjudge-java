@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author livia
- *
- */
-module beecrowd {
-}
