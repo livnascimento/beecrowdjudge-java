@@ -10,9 +10,7 @@ public class IdadeEmDias1020 {
         
         int idadeEmDias = ler.nextInt();
         
-        int anos;
-        int meses;
-        int dias;
+        int anos, meses, dias;
         
         if (idadeEmDias % 365 == idadeEmDias){
             anos = 0;
