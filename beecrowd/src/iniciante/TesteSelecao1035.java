@@ -15,7 +15,7 @@ public class TesteSelecao1035 {
 		if (B > C && D > A) {
 			if ((C + D) > (A + B)) {
 				String positivos = C > 0 && D > 0 && A % 2 == 0 ? "Valores aceitos" : "Valores nao aceitos";
-				System.out.print(positivos);
+				System.out.println(positivos);
 			} else {
 				System.out.println("Valores nao aceitos");
 			}
