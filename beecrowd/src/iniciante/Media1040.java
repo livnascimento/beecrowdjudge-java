@@ -8,12 +8,12 @@ public class Media1040 {
 		
 		Scanner leitor = new Scanner(System.in);
 		
-		double N1 =  leitor.nextDouble();
-		double N2 =  leitor.nextDouble();
-		double N3 =  leitor.nextDouble();
-		double N4 =  leitor.nextDouble();
+		float N1 =  leitor.nextFloat();
+		float N2 =  leitor.nextFloat();
+		float N3 =  leitor.nextFloat();
+		float N4 =  leitor.nextFloat();
 		
-		double media = ((N1 * 2) + (N2 * 3) + (N3 * 4) + (N4 * 1)) / 10;
+		float media = ((N1 * 2) + (N2 * 3) + (N3 * 4) + (N4 * 1)) / 10;
 		
 		System.out.printf("Media: %.1f\n", media);
 		
@@ -22,7 +22,7 @@ public class Media1040 {
 		} else if (media >= 5 && media <= 6.9)  {
 			System.out.println("Aluno em exame.");
 			
-			double N5 = leitor.nextDouble();
+			float N5 = leitor.nextFloat();
 			
 			System.out.printf("Nota do exame: %.1f\n", N5);
 			
