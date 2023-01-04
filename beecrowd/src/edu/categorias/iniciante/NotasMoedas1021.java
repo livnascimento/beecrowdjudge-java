@@ -1,4 +1,4 @@
-package iniciante;
+package edu.categorias.iniciante;
 
 import java.io.IOException;
 import java.util.Scanner;
