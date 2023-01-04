@@ -1,4 +1,4 @@
-package iniciante;
+package edu.categorias.iniciante;
 
 import java.util.Scanner;
 import java.util.Arrays;
