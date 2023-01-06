@@ -2,20 +2,20 @@ package edu.categorias.iniciante;
 
 import java.util.Scanner;
 
-public class AreaDoCirculo1002 {
-	
+public class Beecrowd1003 {
+
 	public static void main(String[] args) {
-		
 		Scanner ler = new Scanner(System.in);
 
-		double raio = ler.nextDouble();
+		int A = ler.nextInt();
+
+		int B = ler.nextInt();
 
 		ler.close();
 
-		double area = raio * raio * 3.14159;
+		int SOMA = A + B;
 
-		System.out.println(String.format("A=%.4f", area));
-		
+		System.out.println("SOMA = " + SOMA);
 	}
 	
 }

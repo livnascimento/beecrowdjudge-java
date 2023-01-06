@@ -2,7 +2,7 @@ package edu.categorias.iniciante;
 
 import java.util.Scanner;
 
-public class MediaSimples1005 {
+public class Beecrowd1005 {
 
 	public static void main(String[] args) {
 

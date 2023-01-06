@@ -2,7 +2,7 @@ package edu.categorias.iniciante;
 
 import java.util.Scanner;
 
-public class ExtremamenteBasico1001 {
+public class Beecrowd1001 {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
 
