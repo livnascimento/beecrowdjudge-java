@@ -3,7 +3,7 @@ package edu.categorias.iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class NotasMoedas1021 {
+public class Beecrowd1021 {
 
 	public static void main(String[] args) throws IOException {
 		 

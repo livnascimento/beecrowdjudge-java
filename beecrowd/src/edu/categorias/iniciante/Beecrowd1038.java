@@ -2,7 +2,7 @@ package edu.categorias.iniciante;
 
 import java.util.Scanner;
 
-public class Lanche1038 {
+public class Beecrowd1038 {
 	
 	public static void main(String[] args) {
 		

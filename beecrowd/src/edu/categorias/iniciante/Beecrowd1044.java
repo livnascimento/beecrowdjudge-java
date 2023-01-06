@@ -3,7 +3,7 @@ package edu.categorias.iniciante;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Multiplos1044 {
+public class Beecrowd1044 {
 	
 	public static void main(String[] args) {
 		

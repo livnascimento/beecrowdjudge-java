@@ -2,7 +2,7 @@ package edu.categorias.iniciante;
 
 import java.util.Scanner;
 
-public class ProdutoSimples1004 {
+public class Beecrowd1004 {
 
 	public static void main(String[] args) {
 

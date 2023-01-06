@@ -2,7 +2,7 @@ package edu.categorias.iniciante;
 
 import java.util.Scanner;
 
-public class IdadeEmDias1020 {
+public class Beecrowd1020 {
 	
 	public static void main(String[] args) {
 		

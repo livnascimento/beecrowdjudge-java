@@ -3,7 +3,7 @@ package edu.categorias.iniciante;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class SortSimples1042 {
+public class Beecrowd1042 {
 
 	public static void main(String[] args) {
 		

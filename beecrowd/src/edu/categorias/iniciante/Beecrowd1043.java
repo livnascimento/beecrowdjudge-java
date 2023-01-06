@@ -3,7 +3,7 @@ package edu.categorias.iniciante;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Triangulo1043 {
+public class Beecrowd1043 {
 	
 	public static void main(String[] args) {
 		

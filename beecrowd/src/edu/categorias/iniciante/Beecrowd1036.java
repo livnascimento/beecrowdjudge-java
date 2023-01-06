@@ -3,7 +3,7 @@ package edu.categorias.iniciante;
 
 import java.util.Scanner;
 
-public class FormulaBascara1036 {
+public class Beecrowd1036 {
 	
 	public static void main(String[] args) {
 		
