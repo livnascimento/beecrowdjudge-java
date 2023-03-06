@@ -14,8 +14,6 @@ public class Beecrowd2057 {
 		
 		int horarioChegada = saida + tempoViagem + fuso;
 		
-		System.out.println(horarioChegada);
-		
 		if (horarioChegada >= 24) horarioChegada -= 24;
 		else if (horarioChegada < 0) horarioChegada += 24;
 
