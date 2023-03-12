@@ -16,6 +16,8 @@ public class Beecrowd1132 {
 		
 		System.out.println(soma);
 		
+		sc.close();
+		
 	}
 	
 	public static int somaNaoMultiplos(int x, int y) {

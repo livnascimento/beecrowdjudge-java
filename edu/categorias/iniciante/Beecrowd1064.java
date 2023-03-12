@@ -30,6 +30,8 @@ public class Beecrowd1064 {
 		System.out.printf("%d valores positivos\n", inteiros);
 		System.out.printf("%.1f\n", media);
 		
+		sc.close();
+		
 	}
 
 }
