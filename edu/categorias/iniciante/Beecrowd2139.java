@@ -28,15 +28,16 @@ public class Beecrowd2139 {
 	
 	static void calcularDias(int[] diasMes, int mes, int dia) {
 		
-		int totalDias = 0;
+		int totalDias = 0, natal = 360;
 		
-		for (int i = 0 ; i < mes - 2 ; i++) {
+		for (int i = 0 ; i < mes - 1 ; i++) {
 			totalDias += diasMes[i];
 		}
 		
 		totalDias += dia;
+		natal -= totalDias;
 		
-		System.out.printf("Faltam %d dias para o natal!\n", totalDias);
+		System.out.printf("Faltam %d dias para o natal!\n", natal);
 	}
 
 }
