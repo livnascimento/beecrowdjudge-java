@@ -8,9 +8,9 @@ public class Beecrowd2161 {
 
 		Scanner sc = new Scanner(System.in);
 
-		int n = sc.nextInt();
-		int contador = 3;
 		double resultado = 0;
+		
+		int n = sc.nextInt();
 
 		for (int i = 0; i < n; i++) {
 			resultado = 1.0 / (resultado + 6.0);
