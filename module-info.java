@@ -6,4 +6,5 @@
  *
  */
 module beecrowd {
+	requires java.scripting;
 }
